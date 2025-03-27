@@ -1,0 +1,46 @@
+body {
+  margin-top: 20px;
+  padding: 0px;
+  background: #eee;
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+  color: #BBBBBB;
+  text-align: center;
+}
+
+#startpage {
+  width: 1000px;
+  background: #eee;
+  margin: 10px auto 0px auto;
+  padding: 0px;
+  text-align: left;
+}
+
+
+h1 {
+  margin: 0px 0px 20px 6px;
+  padding: 0px;
+  font-size: 42px;
+  color: #333;
+}
+
+#copy {
+  margin: -20px 0px 0px 6px;
+  color: #333;
+}
+
+.titleImage img {
+  padding: 0px;
+  float: left;
+  width: 310px;
+  margin-left: 0px;
+  margin-right: 35px;
+  margin-top: 0px;
+  margin-bottom: 35px;
+}
+
+
+a {
+  text-decoration: none;
+  color: #666;
+}

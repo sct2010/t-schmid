@@ -20,7 +20,7 @@
         </div>
       </div>  
       <div id="bottomtext">
-        <div style="float:right;margin-top:-12px;"><a href="/"><img src="../up2.png" alt="Gallery" title="Gallery"></a></div>
+        <div style="float:right;margin-top:-12px;"><a href="/"><img src="../up.png" alt="Gallery" title="Gallery"></a></div>
         <h1>Legend:</h1><br />
         <img src="../marker-red.png" height="18" alt="Red Marker" />  Picture Location
         <div style="float:right; color: #666; text-align:right;">Copyright &copy; 2009-2024 Tobias Schmid</div>
@@ -50,7 +50,7 @@
         popupAnchor: [2, -35]
       });
       const data = [
-        {{dataTable}}
+{{dataMapTable}}
       ]
       const galleryTitle = {{galleryTitle}}
       var index = 0
@@ -61,7 +61,7 @@
           colorMarker = blueMarker
         }
         var marker = L.marker([element[1], element[2]], {icon: colorMarker}).addTo(map);
-        marker.bindPopup("<b>" + element[4] + "</b><br><a href=\"picture.html\" onclick=\"localStorage.setItem(galleryTitle, " + index + ");return true;\"><img src=\"t_" + element[3] + "\" alt=\"" + element[4] + "\" title=\"" + element[4] + "\" /></a>");
+        marker.bindPopup("<b>" + element[4] + "</b><br><a href=\"picture.html\" onclick=\"localStorage.setItem(galleryTitle, " + index + ");return true;\"><img src=\"" + element[3] + "\" alt=\"" + element[4] + "\" title=\"" + element[4] + "\" /></a>");
         index = index + 1
       };
     </script>

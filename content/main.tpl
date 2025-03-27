@@ -38,7 +38,7 @@
     <div id="startpage">
       <a href="/"><h1>TRAVEL LOG</h1></a>
       <div style="display: table; width:1060px;">
-        {{indexContent}}
+{{indexContent}}
       </div><br>
       <div id="copy">Copyright &copy; 2009-2025 Tobias Schmid<br></div>
     </div>

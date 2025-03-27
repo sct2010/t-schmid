@@ -12,7 +12,7 @@
   <body>
     <script>
       const data = [
-        {{dataTable}}
+{{dataTable}}
       ]
       const galleryTitle = {{galleryTitle}}
       var index = 0
@@ -50,33 +50,33 @@
         const prevPic = document.getElementById("leftimg");
         if(index == 0){
           prevPicBtn.style.cursor = "auto";
-          prevPic.src = "../dummy2.png"
+          prevPic.src = "../dummy.png"
         }
         else {
           prevPicBtn.style.cursor = "pointer";
-          prevPic.src = "../left2.png"
+          prevPic.src = "../left.png"
         }
         const nextPicBtn = document.getElementById("right");
         const nextPic = document.getElementById("rightimg");
         if(index == data.length-1){
           nextPicBtn.style.cursor = "auto";
-          nextPic.src = "../dummy2.png";
+          nextPic.src = "../dummy.png";
         }
         else {
           nextPicBtn.style.cursor = "pointer";
-          nextPic.src = "../right2.png";
+          nextPic.src = "../right.png";
         }
       };
     </script>
     <div id="page">
       <h2><a name="vpos" href="">0, 0</a></h2>
       <div id="galleryImage">
-        <div id="left"><img id="leftimg" src="../left2.png" alt="Previous Foto" title="Previous Foto"></div>
+        <div id="left"><img id="leftimg" src="../left.png" alt="Previous Foto" title="Previous Foto"></div>
         <img class="pic" name="vpic" src="" alt="" title=""/>
-        <div id="right"><img id="rightimg" src="../right2.png" alt="Next Foto" title="Next Foto"></div>
+        <div id="right"><img id="rightimg" src="../right.png" alt="Next Foto" title="Next Foto"></div>
       </div>
       <div id="bottomtext">
-        <div style="float:right;margin-top:-15px;"><a href="/"><img src="../up2.png" alt="Gallery" title="Gallery"></a></div>
+        <div style="float:right;margin-top:-15px;"><a href="/"><img src="../up.png" alt="Gallery" title="Gallery"></a></div>
         <h1 name="vtitle"></h1>
         <div name="vtime"></div>
         <br />

@@ -1,0 +1,53 @@
+201507251|38.70062|-109.56466|20150725_ArchesBalancingRock.jpg|Balanced Rock, Arches National Park|July 25th, 2015
+201507252|38.70365|-109.54889|20150725_ArchesGardenEden.jpg|Garden Eden, Arches National Park|July 25th, 2015
+201507261|38.70062|-109.56466|20150726_ArchesBalancingRockNight.jpg|Balanced Rock at night, Arches National Park|July 26th, 2015
+201507262|38.69153|-109.54055|20150726_ArchesDoubleArch.jpg|Double Arch, Arches National Park|July 26th, 2015
+201507263|38.68457|-109.53472|20150726_ArchesTurretArchNight.jpg|Turret arch at night, Arches National Park|July 26th, 2015
+201507271|38.17935|-109.81868|20150727_CanyonlandsBigSpringCanyon1.jpg|Big Spring Canyon Overlook, Canyonlansy National Park|July 27th, 2015
+201507272|38.17935|-109.81868|20150727_CanyonlandsBigSpringCanyon2.jpg|Big Spring Canyon Overlook, Canyonlansy National Park|July 27th, 2015
+201507273|38.17935|-109.81868|20150727_CanyonlandsBigSpringCanyon3.jpg|Big Spring Canyon Overlook, Canyonlansy National Park|July 27th, 2015
+201507274|38.17935|-109.81868|20150727_CanyonlandsBigSpringCanyon4.jpg|Big Spring Canyon Overlook, Canyonlansy National Park|July 27th, 2015
+201507281|38.18993|-109.81746|20150728_CanyonlandsSlickrockFootTrail.jpg|Slickrock Foot Trail, Canyonlands National Park|July 28th, 2015
+201507291|38.15021|-109.85325|20150729_CanyonlandsNeedls.jpg|Elefant Hill Trail, Canyonlands National Park|July 29th, 2015
+201507311|37.61405|-110.00440|20150731_NaturalBridgesNationalMonument.jpg|Sipapu Bridge, Natural Bridges National Monument|July 31st, 2015
+201507312|37.87940|-110.40763|20150731_GlenCanyon.jpg|Hite, Glen Canyon National Recreation Area|July 31st, 2015
+201508011|38.29113|-111.23373|20150801_CapitolReefHickmanBridge.jpg|Hickman Bridge, Capitol Reef National Park|August 1st, 2015
+201508012|38.29071|-111.23417|20150801_CapitolReefHickmanTrail.jpg|Hickman Bridge Trail, Capitol Reef National Park|August 1st, 2015
+201508021|38.27962|-111.23412|20150802_CapitolReefFryingPanTrail.jpg|Squirrel, Frying Pan Trail, Capitol Reef National Park|August 2nd, 2015
+201508022|38.26118|-111.22593|20150802_CapitolReefCassedyArch.jpg|Cassidy Arch, Capitol Reef National Park|August 2nd, 2015
+201508023|38.26118|-111.22593|20150802_CapitolReefCassedyArch2.jpg|Cassidy Arch, Capitol Reef National Park|August 2nd, 2015
+201508031|38.28897|-111.23643|20150803_CapitolReefFruitaHistoricDestrict.jpg|, Capitol Reef National Park|August 3rd, 2015
+201508032|38.30671|-111.29583|20150803_CapitolReefGooseneckOverlook.jpg|Cooseneck Overlook, Capitol Reef National Park|August 3rd, 2015
+201508033|38.29696|-111.29474|20150803_CapitolReefSunsetPoint.jpg|Sunset Point Trail, Capitol Reef National Park|August 3rd, 2015
+201508041|37.78883|-111.62687|20150804_Escalante.jpg|Grand Staircase Escalante National Monument|August 4th, 2015
+201508051|37.48229|-111.21605|20150805_PickABoo.jpg|Pick-A-Boo Slot Canyon, Grand Staircase Escalante National Monument|August 5th, 2015
+201508052|37.48191|-111.20851|20150805_Spooky1.jpg|Spooky Slot Canyon, Grand Staircase Escalante National Monument|August 5th, 2015
+201508053|37.48191|-111.20851|20150805_Spooky2.jpg|Spooky Slot Canyon, Grand Staircase Escalante National Monument|August 5th, 2015
+201508061|37.61512|-112.16991|20150806_BryceCanyonInspirationPoint1.jpg|Inspiration Point, Bryce Canyon National Park|August 6th, 2015
+201508062|37.61512|-112.16991|20150806_BryceCanyonInspirationPoint2.jpg|Inspiration Point, Bryce Canyon National Park|August 6th, 2015
+201508063|37.60573|-112.15759|20150806_BryceCanyonBrycePoint.jpg|Bryce Point, Bryce Canyon National Park|August 6th, 2015
+201508081|37.47448|-112.24047|20150808_BryceCanyonRainbowPoint.jpg|Rainbow Point, Bryce Canyon National Park|August 8th, 2015
+201508082|37.53183|-112.26026|20150808_BryceCanyonNaturalBridge.jpg|Natural Bridge, Bryce Canyon National Park|August 8th, 2015
+201508083|37.54625|-112.24482|20150808_BryceCanyonPonderosaPoint.jpg|Ponderosa Point, Bryce Canyon National Park|August 8th, 2015
+201508084|37.62835|-112.16304|20150808_BryceCanyonSunrisePoint.jpg|Sunrise Point, Bryce Canyon National Park|August 8th, 2015
+201508091|37.74741|-112.31974|20150809_RedCanyon1.jpg|Red Canyon, Dixie National Forest|August 9th, 2015
+201508092|37.74543|-112.32636|20150809_RedCanyon2.jpg|Red Canyon, Dixie National Forest|August 9th, 2015
+201508093|37.74925|-112.32371|20150809_RedCanyonLog.jpg|Birdseye Trail, Red Canyon, Dixie National Forest|August 9th, 2015
+201508101|37.10023|-113.36989|20150810_SandHollows1.jpg|Sand Hollow State Park|August 10th, 2015
+201508102|37.10023|-113.36989|20150810_SandHollows2.jpg|Sand Hollow State Park|August 10th, 2015
+201508121|36.11981|-111.94749|20150812_GrandCanyonAnglesWindow.jpg|Angels Window, Grand Canyon National Park|August 12th, 2015
+201508122|36.19352|-112.04867|20150812_GrandCanyonBrightAnglePoint.jpg|Bright Angel Point, Grand Canyon National Park|August 12th, 2015
+201508123|36.12285|-111.94764|20150812_GrandCanyonCapeRoyal.jpg|Cape Royal, Grand Canyon National Park|August 12th, 2015
+201508131|36.27905|-111.97676|20150813_GrandCanyonPointImperial.jpg|Point Imperial, Grand Canyon National Park|August 13th, 2015
+201508151|36.43863|-114.51413|20150815_ValleyOfFireMousesTank1.jpg|Mouse's Tank Trail, Valley of Fire State Park|August 15th, 2015
+201508152|36.43863|-114.51413|20150815_ValleyOfFireMousesTank2.jpg|Mouse's Tank Trail, Valley of Fire State Park|August 15th, 2015
+201508161|36.42332|-114.55026|20150816_ValleyOfFireAtlAtl.jpg|Atlatl Rock, Valley of Fire State Park|August 16th, 2015
+201508162|36.41755|-114.55180|20150816_ValleyOfFireCampground.jpg|Antelope Ground Squirrel, Valley of Fire State Park|August 16th, 2015
+201508163|36.48333|-114.53320|20150816_ValleyOfFireWhiteDomes.jpg|White Domes Trail, Valley of Fire State Park|August 16th, 2015
+201508191|36.42006|-116.81225|20150819_DeathValley1.jpg|Zabriskie Point, Death Valley National Park|August 19th, 2015
+201508192|36.42006|-116.81225|20150819_DeathValley2.jpg|Zabriskie Point, Death Valley National Park|August 19th, 2015
+201508193|36.60932|-117.11349|20150819_DeathValley3.jpg|Mesquite Flat Sand Dunes, Death Valley National Park|August 19th, 2015
+201508231|37.51257|-121.88092|20150823_MissionPeak.jpg|Mission Peak Regional Reserve|August 23rd, 2015
+201508261|37.87461|-122.50633|20150826_Sausalito1.jpg|Sausalito Floating Homes Association|August 26th, 2015
+201508262|37.87461|-122.50633|20150826_Sausalito2.jpg|Sausalito Floating Homes Association|August 26th, 2015
+201508263|37.87455|-122.50390|20150826_Sausalito3.jpg|Sausalito Floating Homes Association|August 26th, 2015

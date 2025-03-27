@@ -1,0 +1,5 @@
+201205200|36.6089|-118.7115|USA_Kings_Canyon.jpg|Sequoia National Park, California|May 20th, 2012
+201205201|36.608078|-118.71176|USA_Kings_Canyon2.jpg|Marble Fork Kaweah River, Sequoia National Park, California|May 20th, 2012
+201205202|36.611205|-118.696257|USA_Kings_Canyon3.jpg|Sequoia National Park, California|May 20th, 2012
+201205203|36.611313|-118.694873|USA_Kings_Canyon4.jpg|Sequoia National Park, California|May 20th, 2012
+201205210|36.545415|-118.765554|MoroRock.jpg|Moro Rock, Sequoia National Park, California|May 21st, 2012

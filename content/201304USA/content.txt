@@ -1,0 +1,252 @@
+201305160|37.745472|-119.533482|Half_Dome.jpg|Half Dome in clouds, Yosemite Valley|May 16th, 2013
+201305170|37.868620|-119.429283|Polly_Dome.jpg|Polly Dome, Yosemite Valley|May 17th, 2013
+201305171|38.984432|-119.956284|Maria_Bay.jpg|Maria Bay, Lake Tahoe|May 17th, 2013
+201305180|40.448188|-121.534023|Lassen_Hot_Spring.jpg|West Sulphur Creek, Lassen Volcanic National Park|May 18th, 2013
+201305181|40.465936|-121.514518|Lassen_Bumpas_Hell.jpg|Balanced Rock at Bumpass Hell, Lassen Volcanic National Park|May 18th, 2013
+201305182|40.470702|-121.502030|Lassen_Peak.jpg|Lassen Peak from Mount Helen, Lassen Volcanic National Park|May 18th, 2013
+201305190|40.804698|-124.164970|Eureka.jpg|Eureka|May 19th, 2013
+201305200|41.512241|-124.071522|Redwood_Morning.jpg|Morning in the Redwoods National Park|May 20th, 2013
+201305201|41.408746|-124.030151|Redwood_Farn.jpg|Farn, Redwoods National Park|May 20th, 2013
+201305202|41.776113|-124.098215|Redwood_Bird.jpg|The one and only Bird in the Redwoods , Redwoods National Park|May 20th, 2013
+201305220|43.662385|-124.198380|Umpqua_Lighthouse.jpg|Umpqua River Lighthouse, Umpqua Lighthouse State Park|May 22nd, 2013
+201305221|43.662385|-124.198380|Umpqua_Lighthouse_Night.jpg|Umpqua River Lighthouse by Night, Umpqua Lighthouse State Park|May 22nd, 2013
+201305230|43.976511|-124.140873|Oregons_Sand_Dunes.jpg|Sand Dunes, Oregon Dunes National Recreation Area|May 23rd, 2013
+201305231|43.976511|-124.140873|Oregons_Sand_Dunes2.jpg|Sand Dunes, Oregon Dunes National Recreation Area|May 23rd, 2013
+201305240|45.512745|-122.679021|Keller_Fountain_Portland.jpg|Ira Keller Fountain, Portland|May 24th, 2013
+201305241|45.525482|-122.673088|ChineseGardenGame_Portland.jpg|Go at Lan Su Chinese Garden, Portland|May 24th, 2013
+201305242|45.525482|-122.673088|ChineseMan_Portland.jpg|Grumpy Man at Lan Su Chinese Garden, Portland|May 24th, 2013
+201305243|45.527426|-122.669413|NSteelBridge_Portland.jpg|N Steel Bridge, Portland|May 24th, 2013
+201305250|45.521315|-122.701183|Portland_Lewis_Clark.jpg|Lewis & Clark Memorial, Washington Park, Portland|May 25th, 2013
+201305251|45.521120|-122.700403|Portland_House.jpg|House near Washington Park, Portland|May 25th, 2013
+201305252|45.518602|-122.705226|Portland_Rose.jpg|International Rose Test Garden, Washington Park, Portland|May 25th, 2013
+201305253|45.519602|-122.707018|Portland_Japanese_Garden.jpg|Portland Japanese Garden|May 25th, 2013
+201305270|47.861880|-123.934000|OlympicNationalPark_HohRainForest.jpg|Hoh Rain Forest, Olympic National Park|May 27th, 2013
+201305271|47.861880|-123.934000|OlympicNationalPark_CellPhone.jpg|My New Cell Phone Cover, Olympic National Park|May 27th, 2013
+201305280|48.329760|-124.481340|OlympicNationalPark_Coast.jpg|Coast at Strait of Juan de Fuca, Olympic National Park|May 28th, 2013
+201305290|48.050533|-123.788766|OlympicNationalPark_MarymereFalls.jpg|Marymere Falls, Olympic National Park|May 29th, 2013
+201305291|47.972560|-123.515310|OlympicNationalPark_Mountains.jpg|Nice view over the Olympic Mountains, Olympic National Park|May 29th, 2013
+201305292|48.147751|-123.185693|Dungeness1.jpg|Dungeness Spit, Dungeness National Wildlife Refuge|May 29th, 2013
+201305293|48.147751|-123.185693|Dungeness2.jpg|Driftwood, Dungeness National Wildlife Refuge|May 29th, 2013
+201305300|47.606790|-122.344930|SeattleSkyline.jpg|Seattle Skyline|May 30th, 2013
+201305310|47.620513|-122.349297|Seattle_SpaceNeedle.jpg|Space Needle, Seattle|May 31st, 2013
+201305311|47.607407|-122.333665|Seattle_Downtown.jpg|Downtown, Seattle|May 31st, 2013
+201305312|47.620419|-122.350466|Seattle_Flower.jpg|Chihuly Garden and Glass, Seattle|May 31st, 2013
+201306010|47.610141|-122.341990|Seattle_Market.jpg|Pike Place Market, Seattle|June 1st, 2013
+201306020|47.921102|-122.290127|Boeing.jpg|Future of Flight Aviation Center & Boeing Tour, Everett|June 2nd, 2013
+201306021|47.630585|-122.354425|Seattle_Sunset.jpg|Seattle at Sunset from Queen Anne Hill, Seattle|June 2nd, 2013
+201306030|46.774250|-121.746100|MtRainier_NaradaFalls.jpg|Narada Falls, Mt. Rainier National Park|June 3rd, 2013
+201306031|46.786710|-121.739920|MtRainier_NisquallyGlacier.jpg|Nisqually Glacier on Mt. Rainier, Mt. Rainier National Park|June 3rd, 2013
+201306032|46.786710|-121.739920|MtRainier_Peak.jpg|Mt. Rainier Peak, Mt. Rainier National Park|June 3rd, 2013
+201306040|46.294511|-122.820639|MtStHelens.jpg|Mount St. Helens, Mount St. Helens National Volcanic Monument|June 4th, 2013
+201306041|46.275680|-122.248130|MtStHelens_DeadLog.jpg|Dead Log from the 1980 eruption, Mount St. Helens National Volcanic Monument|June 4th, 2013
+201306042|46.276620|-122.214840|MtStHelens_MountainSquirrel.jpg|Ground Squirrel, Mount St. Helens National Volcanic Monument|June 4th, 2013
+201306043|46.107930|-122.209660|ApeCave.jpg|Meatball at the Ape Caves, Mount St. Helens Lava Tube|June 4th, 2013
+201306050|45.577517|-122.114751|MultnomahFallsSide.jpg|Small Creek at Multnomah Falls|June 5th, 2013
+201306060|45.025900|-116.903700|LoblollyPine.jpg|Cones of Loblolly Pine, Wallowa National Forest|June 6th, 2013
+201306061|45.242800|-116.701292|HellsCanyonDam.jpg|Hells Canyon Dam|June 6th, 2013
+201306070|45.348700|-116.513000|SevenDevilsMountain.jpg|The Seven Devils Mountains, Hells Canyon National Recreation Area|June 7th, 2013
+201306071|45.348700|-116.513000|SheepMountain.jpg|Mountains East of US95, Hells Canyon National Recreation Area|June 7th, 2013
+201306080|42.601993|-114.454255|SnakeRiver.jpg|Snake River Canyon, Twin Falls Idaho|June 8th, 2013
+201306081|42.595360|-114.402150|TwinFalls.jpg|Shoshone Falls, Twin Falls Idaho|June 8th, 2013
+201306090|43.440450|-113.557410|CratersOfTheMoon1.jpg|Craters of the Moon National Monument|June 9th, 2013
+201306091|43.451910|-113.537070|CratersOfTheMoon2.jpg|Craters of the Moon National Monument|June 9th, 2013
+201306092|43.429670|-113.546270|CratersOfTheMoon3.jpg|Craters of the Moon National Monument|June 9th, 2013
+201306100|44.143581|-110.997644|CaveFalls.jpg|Cave Falls, Mesa Falls Scenic Byway|June 10th, 2013
+201306101|44.187680|-111.329074|MesaFalls.jpg|Upper Mesa Falls, Mesa Falls Scenic Byway|June 10th, 2013
+201306110|44.550534|-110.806215|FountainPaintPot.jpg|Fountain Paint Pot, Yellowstone National Park|June 11th, 2013
+201306111|44.524170|-110.840870|MidwayGyserBasin.jpg|Grand Prismatic Spring, Midway Geyser Basin, Yellowstone National Park|June 11th, 2013
+201306112|44.484966|-110.855235|BiscuitBasin1.jpg|Sapphire Pool, Biscuit Basin, Yellowstone National Park|June 11th, 2013
+201306113|44.484755|-110.856753|BiscuitBasin2.jpg|Shell Spring, Biscuit Basin, Yellowstone National Park|June 11th, 2013
+201306114|44.461010|-110.855181|BlackSandBasin.jpg|Emerald Pool, Black Sand Basin, Yellowstone National Park|June 11th, 2013
+201306115|44.573123|-110.820484|Bison.jpg|Bison Mom with Kid crossing Nez Perce Creek, Yellowstone National Park|June 11th, 2013
+201306120|44.463128|-110.830470|BacteriaAtGeyser1.jpg|Bacteria At Geyser, Old Faithful Area, Yellowstone National Park|June 12th, 2013
+201306121|44.464651|-110.830116|BacteriaAtGeyser2.jpg|Bacteria At Geyser, Old Faithful Area, Yellowstone National Park|June 12th, 2013
+201306122|44.464012|-110.829628|DoubletPool.jpg|Doublet Pool, Old Faithful Area, Yellowstone National Park|June 12th, 2013
+201306123|44.459628|-110.831290|OldFaithfulInn.jpg|Old Faithful Inn, Yellowstone National Park|June 12th, 2013
+201306130|44.727976|-110.702571|LivingThermometer.jpg|Living Thermometer, Norris Geyser Basin, Yellowstone National Park|June 13th, 2013
+201306131|44.969719|-110.704637|MammothTerraces1.jpg|Jupiter Terrace, Mammoth Hot Springs, Yellowstone National Park|June 13th, 2013
+201306132|44.969358|-110.707378|MammothTerraces2.jpg|Main Terrace, Mammoth Hot Springs, Yellowstone National Park|June 13th, 2013
+201306133|44.967115|-110.705248|MammothTerraces3.jpg|Main Terrace, Mammoth Hot Springs, Yellowstone National Park|June 13th, 2013
+201306134|44.967115|-110.705248|MammothTerraces4.jpg|Main Terrace, Mammoth Hot Springs, Yellowstone National Park|June 13th, 2013
+201306140|44.972561|-110.704551|MammothTerraces5.jpg|Main Terrace, Mammoth Hot Springs, Yellowstone National Park|June 14th, 2013
+201306141|44.934729|-110.083874|GroundSquirrel.jpg|Ground Squirrel at Lunch, Yellowstone National Park|June 14th, 2013
+201306142|44.893175|-110.386881|TowerFall.jpg|Tower Fall, Yellowstone National Park|June 14th, 2013
+201306143|44.722430|-110.483790|GrandCanyonYellowstone.jpg|Grand Canyon of Yellowstone, Yellowstone National Park|June 14th, 2013
+201306150|44.801700|-110.439050|MountWashburn.jpg|Mount Washburn, Yellowstone National Park|June 15th, 2013
+201306160|43.929873|-110.640028|EagleRestPeak.jpg|Eagle Rest Peak, Grand Teton National Park|June 16th, 2013
+201306161|43.901240|-110.654060|JacksonLake.jpg|Jackson Lake with Ranger Peak, Grand Teton National Park|June 16th, 2013
+201306162|43.907066|-110.555549|GrandViewPoint.jpg|View from the Grand View Point, Grand Teton National Park|June 16th, 2013
+201306163|43.846326|-110.576223|FlowerOnSignalMountain.jpg|Flower on Signal Mountain, Grand Teton National Park|June 16th, 2013
+201306170|43.677050|-110.724635|SouthTeton.jpg|South Teton, Grand Teton National Park|June 17th, 2013
+201306171|43.766770|-110.717280|JennyLake.jpg|Jenny Lake, Grand Teton National Park|June 17th, 2013
+201306172|43.657000|-110.796050|DeadTree.jpg|Dead Tree at the Death Canyon Trail, Grand Teton National Park|June 17th, 2013
+201306190|40.387060|-105.669490|Elk.jpg|Elk, Rocky Mountain National Park|June 19th, 2013
+201306191|40.400580|-105.663500|Chipmunk.jpg|Chipmunk at the Rainbow Curve, Rocky Mountain National Park|June 19th, 2013
+201306192|40.414403|-105.724311|Tundra.jpg|Tundra in the Rocky Mountains, Rocky Mountain National Park|June 19th, 2013
+201306200|40.404156|-105.618997|BighornSheep.jpg|Bighorn Sheeps at Sheep Lakes, Rocky Mountain National Park|June 20th, 2013
+201306201|40.309736|-105.656800|GroundSquirrel2.jpg|Ground Squirrel at Dream Lake, Rocky Mountain National Park|June 20th, 2013
+201306210|38.846840|-105.052150|PikesPeak.jpg|Pikes Peak International Hill Climb, Colorado|June 21th, 2013
+201306240|38.700623|-109.564666|ArchesBalancedRock.jpg|Balanced Rock, Arches  National Park|June 24th, 2013
+201306241|38.684394|-109.535322|ArchesTurret.jpg|South Window through Turret Arch, Arches National Park|June 24th, 2013
+201306242|38.743245|-109.499799|DelicateArche.jpg|Delicate Arche, Arches National Park|June 24th, 2013
+201306250|38.785604|-109.596106|TunnelArch.jpg|Tunnel Arch, Arches National Park|June 25th, 2013
+201306251|38.798227|-109.607302|ArchesDeer.jpg|Deer at Arches National Park|June 25th, 2013
+201306260|36.050224|-107.929328|HungoPavi.jpg|Hungo Pavi, Chaco Culture National Historical Park|June 26th, 2013
+201306261|36.060156|-107.954428|ChetoKetl.jpg|Chetro Ketl, Chaco Culture National Historical Park|June 26th, 2013
+201306270|30.320403|-97.773653|AustinDowntown.jpg|Austin Downtown, Austin Texas|June 27th, 2013
+201306271|30.320403|-97.773653|AustinMountBonnell.jpg|House on Mount Bonnell, Austin Texas|June 27th, 2013
+201307010|29.425775|-98.486027|TheAlamo1.jpg|The Alamo, San Antiono Texas|July 1st, 2013
+201307011|29.425841|-98.486209|TheAlamo2.jpg|The Alamo, San Antiono Texas|July 1st, 2013
+201307012|29.425747|-98.486016|TheAlamo3.jpg|The Alamo, San Antiono Texas|July 1st, 2013
+201307013|29.422547|-98.488483|RiverWalk1.jpg|River Walk, San Antiono Texas|July 1st, 2013
+201307014|29.423322|-98.491482|RiverWalk2.jpg|River Walk, San Antiono Texas|July 1st, 2013
+201307020|30.248894|-97.749806|SouthCongress.jpg|South Congress, Austin Texas|July 2nd, 2013
+201307040|29.725768|-95.389808|HoustonMuseumOfFineArts.jpg|The Museum of Fine Arts, Houston|July 4th, 2013
+201307041|29.725768|-95.389808|WilsonTunnel.jpg|Wilson Tunnel at The Museum of Fine Arts, Houston|July 4th, 2013
+201307042|29.719111|-95.388617|July4th.jpg|Houston Symphony Orchestra plays at Miller Outdoor Theatre|July 4th, 2013
+201307050|29.551290|-95.097220|NASA.jpg|Space Shuttle at the Johnson Space Center, Houston|July 5th, 2013
+201307051|29.230091|-94.891925|GalvestonHouse.jpg|House at Galveston|July 5th, 2013
+201307052|29.290163|-94.787491|GalvestonPier.jpg|Galveston Island Historic Pleasure Pier, Galveston|July 5th, 2013
+201307060|29.299943|-94.793995|UTMB.jpg|University of Texas Medical Branch, Galveston|July 6th, 2013
+201307080|29.954256|-90.062680|NewOrleans.jpg|SS Natchez IX, Sternwheeler Paddleboat, New Orleans|July 8th, 2013
+201307081|29.943349|-90.069872|WW2Museum.jpg|National World War II Museum, New Orleans|July 8th, 2013
+201307082|29.957939|-90.063354|JacksonSq.jpg|Jackson Square, French Quarter, New Orleans|July 8th, 2013
+201307083|29.962503|-90.068412|LouisArmstrong.jpg|Louis Armstrong Park, The Tremé, New Orleans|July 8th, 2013
+201307090|29.957788|-90.063751|JacksonSqNight.jpg|Pirate Alley, French Quater, New Orleans|July 9th, 2013
+201307091|29.957658|-90.064278|LousianaStateMuseum.jpg|Presbytère - Louisiana State Museum, New Orleans|July 9th, 2013
+201307092|29.958832|-90.065468|NewOrleansBurbonSt1.jpg|Bourbon St, French Quater, New Orleans|July 9th, 2013
+201307093|29.958832|-90.065468|NewOrleansBurbonSt3.jpg|Bourbon St, French Quater, New Orleans|July 9th, 2013
+201307094|29.959289|-90.065077|NewOrleansBurbonSt2.jpg|Bourbon St, French Quater, New Orleans|July 9th, 2013
+201307100|29.957837|-90.063429|StLouisCathedral.jpg|St. Louis Cathedral, French Quater, New Orleans|July 10th, 2013
+201307101|29.986086|-90.094526|NewOrleansMuseumArt.jpg|New Orleans Museum of Art|July 10th, 2013
+201307110|30.276562|-89.021584|Dolphin.jpg|Dolphins near Gulfport, Gulf Islands National Seashore|July 11th, 2013
+201307111|30.309319|-87.370966|CampGulf.jpg|Camping at the Rosamond Johnson Beach, Gulf Islands National Seashore|July 11th, 2013
+201307120|30.309319|-87.370966|MorningGulf.jpg|Morning at the Rosamond Johnson Beach, Gulf Islands National Seashore|July 12th, 2013
+201307130|27.983099|-82.829019|ClearwaterBeach.jpg|Clearwater Beach, Clearwater|July 13th, 2013
+201307131|27.983099|-82.829019|ClearwaterSunset.jpg|Sunset at Clearwater Beach, Clearwater|July 13th, 2013
+201307140|27.944152|-82.445142|Duck.jpg|Duck,The Florida Aquarium, Tampa|July 14th, 2013
+201307141|27.944152|-82.445142|JellyFish.jpg|Jelly Fish,The Florida Aquarium, Tampa|July 14th, 2013
+201307150|27.765692|-82.631426|DaliMuseum.jpg|The Dali Museum, St. Petersburg|July 15th, 2013
+201307151|27.765692|-82.631426|StPetersburg.jpg|St. Petersburg, Florida|July 15th, 2013
+201307152|27.985704|-82.828685|ClearwaterSunset2.jpg|Sunset at Clearwater Beach, Clearwater|July 15th, 2013
+201307160|24.557609|-81.804175|KeyWestNight.jpg|Grand Cafe, Key West|July 16th, 2013
+201307170|24.558118|-81.804528|Corvette.jpg|Chevrolet Corvette (C1), Key West|July 17th, 2013
+201307180|25.744482|-80.210235|Vizcaya.jpg|Vizcaya Museum and Gardens, Miami|July 18th, 2013
+201307181|25.744300|-80.210364|VizcayaHouse.jpg|Vizcaya Museum and Gardens, Miami|July 18th, 2013
+201307182|25.765402|-80.219275|MaximoGomez.jpg|Máximo Gómez Park, Miami|July 18th, 2013
+201307190|25.778156|-80.128764|MiamiSouthBeach1.jpg|South Beach, Miami|July 19th, 2013
+201307191|25.789145|-80.127127|MiamiSouthBeach2.jpg|South Beach, Miami|July 19th, 2013
+201307192|25.783942|-80.129997|OceanDrive.jpg|Ocean Drive, South Beach, Miami|July 19th, 2013
+201307200|25.670404|-80.759836|Everglades.jpg|Everglades National Park|July 20th, 2013
+201307201|25.683912|-80.766819|GreatBlueHeron.jpg|Great Blue Heron, Everglades National Park|July 20th, 2013
+201307202|25.746608|-80.766508|BabyAligator.jpg|Baby Aligator, Everglades National Park|July 20th, 2013
+201307203|25.752329|-80.766465|Dragonfly.jpg|Dragonfly, Everglades National Park|July 20th, 2013
+201307210|25.775562|-80.186082|MiamiBayfrontPark.jpg|Bayfront Park, Downtown Miami|July 21st, 2013
+201307211|25.747973|-80.175849|MiamiDowntownSunset.jpg|Miami Downtown at Sunset|July 21st, 2013
+201307212|25.747973|-80.175849|MiamiDowntownNight.jpg|Miami Downtown at Night|July 21st, 2013
+201307240|32.857455|-79.823380|BooneHallPlantation.jpg|Boone Hall Plantation & Gardens, Charleston SC|July 24th, 2013
+201307241|32.857455|-79.823380|BlueTailedSkink.jpg|Blue-tailed Skink, Charleston, South Carolina|July 24th, 2013
+201307242|32.789439|-79.885364|HarborCharleston.jpg|Creek at Mt Pleasant, South Carolina|July 24th, 2013
+201307250|33.825446|-80.819287|CongareeNP.jpg|Congaree National Park, North Carolina|July 25th, 2013
+201307251|33.825446|-80.819287|Myriapoda.jpg|Myriapoda at Congaree National Park, North Carolina|July 25th, 2013
+201307260|35.567810|-83.309390|ButterflyAtSmokemontLoop.jpg|Butterfly on Smokemont Loop Trail, Great Smoky Mountains National Park|July 26th, 2013
+201307261|35.579541|-83.321804|BradleyFork.jpg|Bradley Fork Greek, Great Smoky Mountains National Park|July 26th, 2013
+201307270|35.610407|-83.425847|BumblebeeAtNewfoundGap.jpg|Bumblebee at Newfound Gap, Great Smoky Mountains National Park|July 27th, 2013
+201307271|35.638955|-83.372315|CharliesBunion.jpg|Charlies Bunion, Great Smoky Mountains National Park|July 27th, 2013
+201307280|35.629782|-83.386257|MorningAtIcewaterShelter.jpg|Morning at Icewater Shelter, Great Smoky Mountains National Park|July 28th, 2013
+201307281|35.628556|-83.478461|ChimneyTops.jpg|Chimney Tops, Great Smoky Mountains National Park|July 28th, 2013
+201307290|35.608348|-83.879998|AbramsFalls.jpg|Abrams Falls, Great Smoky Mountains National Park|July 29th, 2013
+201307291|35.587381|-83.809011|BearGreatSmokyNP.jpg|Bear Mom with Kid, Great Smoky Mountains National Park|July 29th, 2013
+201307300|38.035501|-78.503517|UniversityOfVirginia1.jpg|University of Virginia, Charlottesville|July 30th, 2013
+201307301|38.035501|-78.503517|UniversityOfVirginia2.jpg|University of Virginia, Charlottesville|July 30th, 2013
+201307310|38.246539|-78.672627|Bunny.jpg|Bunny at the Loft Mountain Campground, Shenandoah National Park|July 31st, 2013
+201308010|38.219760|-78.740810|BlackRock.jpg|Blackrock, Shenandoah National Park|August 1st, 2013
+201308011|38.246539|-78.672627|ShenandoahSunset.jpg|Sunset at Shenandoah National Park|August 1st, 2013
+201308020|38.446590|-78.465030|Shenandoah.jpg|Bearfence Mountain, Shenandoah National Park|August 2nd, 2013
+201308030|38.533180|-78.409620|RoseRiverWaterfall.jpg|Waterfall at Rose River, Shenandoah National Park|August 3rd, 2013
+201308031|38.528320|-78.407960|RoseRiver.jpg|Rose River, Shenandoah National Park|August 3rd, 2013
+201308040|38.601690|-78.344470|CorbinCabin.jpg|Corbin Cabin, Shenandoah National Park|August 4th, 2013
+201308050|38.889750|-77.009180|Capitol.jpg|Capitol, Washington DC|August 5th, 2013
+201308051|38.897630|-77.036630|WhiteHouse.jpg|White House, Washington DC|August 5th, 2013
+201308052|38.894770|-77.037470|BirdWashingtonDC.jpg|Birds have a shower, Washington DC|August 5th, 2013
+201308053|38.888890|-77.040300|WW2Memorial1.jpg|National World War II Memorial, Washington DC|August 5th, 2013
+201308054|38.889240|-77.050100|Lincoln.jpg|Lincoln Memorial, Washington DC|August 5th, 2013
+201308055|38.887750|-77.047490|KoreanMemorial1.jpg|Korean War Memorial, Washington DC|August 5th, 2013
+201308056|38.883440|-77.042940|FDRMemorial.jpg|Franklin D. Roosevelt Memorial, Washington DC|August 5th, 2013
+201308060|38.887750|-77.047490|KoreanWarNight.jpg|Korean War Memorial, Washington DC|August 6th, 2013
+201308061|38.889750|-77.009180|CapitolNight.jpg|Capitol, Washington DC|August 6th, 2013
+201308062|38.889480|-77.035890|WashingtonMonumentNight.jpg|Washington Memorial, Washington DC|August 6th, 2013
+201308070|38.914056|-77.063041|DumbartonOakGarden1.jpg|Dumbarton Oak Garden, Washington DC|August 7th, 2013
+201308071|38.914156|-77.062118|DumbartonOakGarden2.jpg|Dumbarton Oak Garden, Washington DC|August 7th, 2013
+201308072|38.914797|-77.062311|DumbartonOakGarden3.jpg|Dumbarton Oak Garden, Washington DC|August 7th, 2013
+201308100|43.084546|-79.069744|NiagaraFalls1.jpg|Niagara Falls, New York|August 10th, 2013
+201308101|43.084546|-79.069744|NiagaraFalls2.jpg|Niagara Falls, New York|August 10th, 2013
+201308102|43.084546|-79.069744|NiagaraFalls3.jpg|Niagara Falls Mist, New York|August 10th, 2013
+201308103|44.100707|-76.370288|TibbetsPointLighthouse1.jpg|Tibbets Point Lighthouse, Cape Vincent, New York|August 10th, 2013
+201308104|44.100707|-76.370288|TibbetsPointLighthouse2.jpg|Tibbets Point Lighthouse, Cape Vincent, New York|August 10th, 2013
+201308105|44.127582|-76.399920|WindmillCanada.jpg|Wind Power Station, Wolfe Island, Canada|August 10th, 2013
+201308106|44.100707|-76.370288|TibbetsPointLighthouse3.jpg|Tibbets Point Lighthouse, Cape Vincent, New York|August 10th, 2013
+201308110|44.333004|-76.027772|KayakWellesley.jpg|Kayak at Wellesley Island State Park, Thousand Islands, New York|August 11th, 2013
+201308111|44.333004|-76.027772|Wellesley.jpg|Wellesley Island State Park, Thousand Islands, New York|August 11th, 2013
+201308140|43.453912|-73.691998|DuckLakeGeorge.jpg|Duck at the Hearthstone Point Campground, Lake George, New York|August 14th, 2013
+201308141|43.453912|-73.691998|ShipLakeGeorge.jpg|Ship at the Hearthstone Point Campground, Lake George, New York|August 14th, 2013
+201308142|43.453912|-73.691998|SunsetLakeGeorge.jpg|Sunset at the Hearthstone Point Campground, Lake George, New York|August 14th, 2013
+201308150|43.614473|-73.618543|LakeGeorge.jpg|Lake George, New York|August 15th, 2013
+201308151|43.853315|-73.385164|TiconderogaFerry.jpg|Waiting for the Ticonderoga Ferry, New York|August 15th, 2013
+201308160|44.636086|-71.648446|MaidstoneClouds.jpg|Clouds at Maidstone State Park, Vermont|August 16th, 2013
+201308161|44.636086|-71.648446|MaidstoneKayak.jpg|Clouds at Maidstone State Park, Vermont|August 16th, 2013
+201308170|44.228657|-68.312348|AcadiaWonderland.jpg|Wonderland Trail, Acadia National Park|August 17th, 2013
+201308171|44.226566|-68.320716|AcadiaShipHarbor.jpg|Ship Harbor Trail, Acadia National Park|August 17th, 2013
+201308180|44.304810|-68.313592|AcadiaFlyingMtn.jpg|Somes Sound bay from Flying Mtn, Acadia National Park|August 18th, 2013
+201308181|44.307620|-68.314580|AcadiaValleyCove.jpg|Valley Cove, Acadia National Park|August 18th, 2013
+201308182|44.221876|-68.337387|AcadiaBassHarbor.jpg|Bass Harbor Head Lighthouse, Acadia National Park|August 18th, 2013
+201308190|44.332045|-68.282096|AcadiaCarriageRoad.jpg|Bridge of the Carriage Road System, Acadia National Park|August 19th, 2013
+201308191|44.351918|-68.229671|AcadiaCadillacMtn.jpg|Cadillac Mountain, Acadia National Park|August 19th, 2013
+201308192|44.319826|-68.188937|AcadiaThunderHole.jpg|Thunder Hole, Acadia National Park|August 19th, 2013
+201308193|44.309954|-68.347388|AcadiaBeechMtn.jpg|Sunset on Beech Mountain, Acadia National Park|August 19th, 2013
+201308194|44.309954|-68.347388|AcadiaMoon.jpg|Holding the Moon, Acadia National Park|August 19th, 2013
+201308200|44.332475|-68.062109|AcadiaSchoodic.jpg|Breakwater at Schoodic Point, Acadia National Park|August 20th, 2013
+201308201|44.366769|-68.038441|AcadiaSchoodicHarbor.jpg|Schoodic Peninsula, Acadia National Park|August 20th, 2013
+201308202|44.242232|-68.299079|AcadiaSeewall.jpg|Natural Seewall, Acadia National Park|August 20th, 2013
+201308210|44.323833|-68.250249|AcadiaJordanPond.jpg|Jordan Pond, Acadia National Park|August 21st, 2013
+201308220|44.252546|-68.272329|AcadiaLobsterTrap.jpg|Lobster Trap, Preble Cove, Cranberry Isle|August 22nd, 2013
+201308221|44.258110|-68.238103|AcadiaBuoy.jpg|Buoy drying, Little Cranberry Isle|August 22nd, 2013
+201308222|44.258110|-68.238103|AcadiaHadlockCove.jpg|Hadlock Cove, Little Cranberry Isle|August 22nd, 2013
+201308230|43.092177|-71.959555|Hillsboro.jpg|Franklin Pierce Lake, Hillsboro, New Hampshire|August 23rd, 2013
+201308250|40.345195|-74.657541|Princeton.jpg|Princeton University, New Jersey|August 25th, 2013
+201308260|40.736421|-73.989971|NYCUnionSqNight.jpg|Union Square Park, NYC|August 26th, 2013
+201308261|40.730966|-73.997310|NYCWashingtonSqNight.jpg|Washington Square Park, NYC|August 26th, 2013
+201308262|40.730966|-73.997310|NYCWashingtonSqEmpireNight.jpg|Empire State Bilding and Washington Square Park, NYC|August 26th, 2013
+201308263|40.731690|-73.996297|NYUWashingtonMewsSt.jpg|Washington Mews Street, NYU|August 26th, 2013
+201308270|40.741238|-73.989605|NYCFlatironBuilding.jpg|Flatiron Building, NYC|August 27th, 2013
+201308271|40.753044|-73.981939|NYCPublicLibrary.jpg|New York Public Library, NYC|August 27th, 2013
+201308272|40.761390|-73.977784|NYCMoMA.jpg|Museum of Modern Art, NYC|August 27th, 2013
+201308273|40.752898|-73.977234|NYCGrandCentralStation.jpg|Grand Central Station, NYC|August 27th, 2013
+201308274|40.751524|-73.975389|NYCChryslerBuilding.jpg|Chrysler Building, NYC|August 27th, 2013
+201308275|40.748066|-74.004673|NYCHighLinePark.jpg|New York High Line, NYC|August 27th, 2013
+201308276|40.744721|-74.007012|NYCHighLinePark1.jpg|New York High Line, NYC|August 27th, 2013
+201308277|40.742268|-74.007726|NYCHighLinePark2.jpg|New York High Line, NYC|August 27th, 2013
+201308278|40.759147|-73.984911|NYCTimesSq.jpg|Times Square, NYC|August 27th, 2013
+201308280|40.774143|-73.970888|NYCBethesdaFountain.jpg|Bethesda Fountain, Central Park, NYC|August 28th, 2013
+201308281|40.775285|-73.972911|NYCTheLake.jpg|The Lake &amp; Gilbert Chiropractic Office, Central Park, NYC|August 28th, 2013
+201308282|40.775005|-73.966540|NYCAliceInWonderland.jpg|Alice in Wonderland, Central Park, NYC|August 28th, 2013
+201308290|40.705351|-73.995927|NYCBrooklynBridge.jpg|Brooklyn Bridge, NYC|August 29th, 2013
+201308291|40.712049|-74.013155|NYC911.jpg|9/11 Memorial North Pool, NYC|August 29th, 2013
+201308292|40.706828|-74.010929|NYCStock.jpg|New York Stock Exchange, NYC|August 29th, 2013
+201308293|40.720193|-73.996955|NYCLittleItaly.jpg|Little Italy, NYC|August 29th, 2013
+201308294|40.772340|-73.983458|NYCMET.jpg|Metropolitan Opera, NYC|August 29th, 2013
+201308300|40.749683|-73.967542|UNSecurityCouncil.jpg|United Nations Security Council, United Nations|August 30th, 2013
+201308301|40.749683|-73.967542|UNHumanRights.jpg|Human Rights, United Nations|August 30th, 2013
+201308302|40.772399|-73.983305|NYCLincolnCenter.jpg|Lincoln Center, NYC|August 30th, 2013
+201308303|40.772399|-73.983305|NYCPaulMilsteinPool.jpg|Paul Milstein Pool, NYC|August 30th, 2013
+201308304|40.768082|-73.981851|NYCColumbusCircle.jpg|Columbus Circle, NYC|August 30th, 2013
+201308310|40.689099|-74.044418|NYCStatueOfLiberty.jpg|Statue of Liberty, NYC|August 31st, 2013
+201308311|40.702049|-74.016824|NYCManhatten.jpg|Manhatten, NYC|August 31st, 2013
+201309020|41.891726|-87.598863|ChicagoSkyline.jpg|Chicago Skyline|September 2nd, 2013
+201309060|43.099549|-90.135709|HouseOnTheRock1.jpg|House on the Rock, Wisconsin|September 6th, 2013
+201309061|43.099549|-90.135709|HouseOnTheRock2.jpg|House on the Rock, Wisconsin|September 6th, 2013
+201309062|43.099549|-90.135709|HouseOnTheRock3.jpg|House on the Rock, Wisconsin|September 6th, 2013
+201309063|43.099549|-90.135709|HouseOnTheRock4.jpg|House on the Rock, Wisconsin|September 6th, 2013
+201309064|43.099549|-90.135709|HouseOnTheRock5.jpg|House on the Rock, Wisconsin|September 6th, 2013
+201309065|42.813746|-89.634970|NewGlarusChalet.jpg|Chalet in New Glarus, Wisconsin|September 6th, 2013
+201309066|42.795507|-89.630458|NewGlarusBrewery.jpg|New Glarus Brewing Company, Wisconsin|September 6th, 2013

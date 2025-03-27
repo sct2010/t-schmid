@@ -1,0 +1,9 @@
+201210130|-12.070833|-77.033333|Peru_Lima_1.jpg|Lima, Peru|October 13th, 2012
+201210131|-12.070833|-77.033333|Peru_Lima_2.jpg|Lima, Peru|October 13th, 2012
+201210160|-15.611588|-71.904702|Peru_Colca_Canyon.jpg|Colca Canyon, Peru|October 16th, 2012
+201210161|-16.398100|-71.536698|Peru_Arequipa.jpg|Basilica Catedral De Arequipa, Peru|October 16th, 2012
+201210170|-15.721111|-70.158333|Peru_Sillustani.jpg|The chullpas of Sillustani, Peru|October 17th, 2012
+201210180|-15.817773|-69.973834|Peru_Lake_Titicaca.jpg|Uros Ilands, Lake Titicaca|October 18th, 2012
+201210200|-13.514951|-71.974035|Peru_Cuzco.jpg|Plaza San Blas, Cuzco, Peru|October 20th, 2012
+201210220|-13.234687|-72.425273|Inka_Trail_1.jpg|Inka Trail, Day1|October 22nd, 2012
+201210240|-13.206555|-72.532087|Inka_Trail_3.jpg|Puyupatamarca, Inka Trail, Day3|October 24th, 2012

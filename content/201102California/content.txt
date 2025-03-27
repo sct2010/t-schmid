@@ -1,0 +1,6 @@
+201102210|38.954520|-123.740533|Point_Arena.jpg|Point Arena Lighthouse, Noth California|February 21st, 2011
+201102310|36.603118|-121.960707|17Mile.jpg|17-Mile Dr, Noth California|February 23rd, 2011
+201102311|36.591334|-121.964733|Bird_Rock.jpg|Bird Rock, 17-Mile Dr, Noth California|February 23rd, 2011
+201102312|36.562324|-121.955201|17Mile2.jpg|17-Mile Dr, Noth California|February 23rd, 2011
+201102313|36.372455|-121.902689|BixbyBridge.jpg|Bixby Creek Bridge, Pacific Coast Highway|February 23rd, 2011
+201102314|36.161036|-121.674272|BigSur.jpg|Big Sur, Pacific Coast Highway|February 23rd, 2011

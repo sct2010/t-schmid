@@ -21,17 +21,44 @@
         displayImage()
         const prevPicBtn = document.getElementById("left");
         prevPicBtn.style.cursor = "pointer";
-        prevPicBtn.onclick = function() {
-          index = Math.max(index - 1, 0)
-          displayImage()
-        };
+        prevPicBtn.onclick = function() {previewsImage();};
         const nextPicBtn = document.getElementById("right");
         nextPicBtn.style.cursor = "pointer";
-        nextPicBtn.onclick = function() {
-          index = Math.min(index + 1, data.length-1)
-          displayImage()
-        };
+        nextPicBtn.onclick = function() {nextImage();};
       };
+      
+      let touchstartX = 0
+      let touchendX = 0
+      document.addEventListener('touchstart', e => {
+        touchstartX = e.changedTouches[0].screenX
+      })
+      document.addEventListener('touchend', e => {
+        touchendX = e.changedTouches[0].screenX
+        if (touchendX < touchstartX) nextImage()
+        if (touchendX > touchstartX) previewsImage()
+      })
+
+      document.addEventListener('keydown', (event) => {
+        switch (event.key) {
+          case "ArrowLeft":
+            previewsImage()
+            break;
+          case "ArrowRight":
+            nextImage()
+            break;
+        }
+      });
+
+      function nextImage() {
+        index = Math.min(index + 1, data.length-1)
+        displayImage()
+      }
+      
+      function previewsImage() {
+        index = Math.max(index - 1, 0)
+        displayImage()
+      }
+
       function displayImage() {
         localStorage.setItem(galleryTitle, index);
         document.title = "Travel Log : " + data[index][4];

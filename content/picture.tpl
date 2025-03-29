@@ -43,6 +43,15 @@
         pic.alt = data[index][4];
         pic.title = data[index][4];
 
+        if(index < data.length-1){
+          var img=new Image();
+          img.src=data[index+1][3];
+        }
+        if(index > 0){
+          var img=new Image();
+          img.src=data[index-1][3];
+        }
+
         document.getElementsByName("vtitle")[0].innerText = data[index][4];
         document.getElementsByName("vtime")[0].innerText = data[index][5];
         

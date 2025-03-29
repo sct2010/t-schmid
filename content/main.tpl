@@ -19,7 +19,7 @@
         let n = 0;
         for (image of images) {
           const rndPos = Math.floor(Math.random() * 19) + 1
-          image.src = image.src.replace("title_2_5", "title_" + colorarray[n].toString() + "_" + rndPos.toString())
+          image.src = image.src.replace("dummy", "title_" + colorarray[n].toString() + "_" + rndPos.toString())
           n++
         };
         var elements = document.getElementsByClassName("randImage")
